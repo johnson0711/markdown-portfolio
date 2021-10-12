@@ -4,4 +4,6 @@
 
 ***TEST ITALIC AND BOLD***
 
-__TEST ITALIC AND BOLD__
+<strike>TEST DELETE LINE1<strike>
+  
+~~TEST DELETE LINE2~~
